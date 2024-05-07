@@ -1,0 +1,12 @@
+name: HealthCareAccess
+title: HealthCareAccess
+username: christophergottwaldt
+account: christophergottwaldt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11950347
+bundleId: 8585331
+url: https://christophergottwaldt.shinyapps.io/HealthCareAccess/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
